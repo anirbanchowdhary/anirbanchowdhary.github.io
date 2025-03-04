@@ -35,9 +35,3 @@ Hello visitor!
 Beyond research, I have been actively involved in science outreach, organizing astrophysics workshops and physics symposiums. I have a strong passion for teaching and mentoring. Currently, I am mentoring two Master's students with their thesis. I have worked as a physics teacher at Techno India Group Public School and as a freelance tutor. 
 
 Beyond academics and research, I have a very vast area of interests and hobbies. I am mostly an outdoor person. On weekends, I like travelling, riding bikes, and exploring food joints around the city. 
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
