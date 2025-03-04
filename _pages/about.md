@@ -26,15 +26,15 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an astrophysicist and computational researcher with a deep interest in numerical simulations, AI-driven data analysis, and large-scale cosmological modeling. Currently, I am pursuing a Ph.D. in Astrophysics at Presidency University Kolkata, where my research focuses on understanding the formation and evolution of large-scale structures in the universe, active galactic nuclei (AGN), and statistical modeling of galaxy surveys.
+Hello visitor!
 
-My work involves analyzing astrophysical simulations, developing machine learning algorithms for data-driven discovery, and applying statistical methods to extract meaningful insights from complex datasets. I have hands-on experience with N-body simulations, high-performance computing (HPC), and Python-based modeling, particularly in the context of cosmology and large-scale structure formation.
+ I am a Senior Research Fellow and a PhD Candidate at the [School of Astrophysics](https://presiuniv.ac.in/web/astrophysics.php) in [Presidency University](https://presiuniv.ac.in/web/), Kolkata. I did my undergraduate and postgraduate degrees from the Department of Physics in Presidency Univresity. 
+ 
+ My research interests are in Cosmology and the distribution of matter on large scales. Currently, I am studying the SMBH-Galaxy-Halo co-evolution. I use state of the art cosmological simulations like [IllustrisTNG](https://www.tng-project.org/) and [Simba](http://simba.roe.ac.uk/) to model the Halo Occupation Distributions of Quasars. I am looking forward to make testable mock observables for the next generation galaxy surveys to break theoretical degeneracies between different simulation models. My work involves analyzing cosmological simulations and applying statistical methods to extract insights from large datasets.
 
-Beyond research, I have a strong passion for teaching and mentoring. I have worked as a physics teacher at Techno India Group Public School and as a freelance tutor, where I developed customized learning materials to help students grasp complex scientific concepts. I have also been actively involved in science outreach, organizing astrophysics workshops and symposiums and collaborating with LIGO-India to promote scientific awareness among students.
+Beyond research, I have been actively involved in science outreach, organizing astrophysics workshops and physics symposiums. I have a strong passion for teaching and mentoring. Currently, I am mentoring two Master's students with their thesis. I have worked as a physics teacher at Techno India Group Public School and as a freelance tutor. 
 
-I have presented my work at national and international conferences, including the Astronomical Society of India (ASI) meetings, and continue to explore new ways to integrate machine learning and AI with astrophysical research. I am particularly interested in contributing to projects like Quijote, CAMELS, and DREAMS simulations, where AI and numerical simulations come together to advance our understanding of the universe.
-
-At the core of my work is a strong drive to combine theoretical physics, data science, and AI to push the boundaries of astrophysical research. I look forward to collaborating with experts in computational astrophysics and AI to develop innovative solutions that enhance scientific discovery and our understanding of the cosmos.
+Beyond academics and research, I have a very vast area of interests and hobbies. I am mostly an outdoor person. On weekends, I like travelling, riding bikes, and exploring food joints around the city. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
