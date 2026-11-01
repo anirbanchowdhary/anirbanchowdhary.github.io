@@ -61,20 +61,14 @@
       "studyType": "M.Sc.",
       "area": "Physics",
       "endDate": "2020",
-      "courses": [
-        "Thesis: A Direct Measurement of the Mean Occupation Function of Obscured Quasars",
-        "Advisor: Dr. Suchetana Chatterjee"
-      ]
+      "courses": ["Thesis: A Direct Measurement of the Mean Occupation Function of Obscured Quasars", "Advisor: Dr. Suchetana Chatterjee"]
     },
     {
       "institution": "Presidency University, Kolkata",
       "studyType": "B.Sc. (Hons.)",
       "area": "Physics",
       "endDate": "2018",
-      "courses": [
-        "Project: Standardization of Type Ia Supernova Light Curves",
-        "Advisor: Dr. Saumyadip Samui"
-      ]
+      "courses": ["Project: Standardization of Type Ia Supernova Light Curves", "Advisor: Dr. Saumyadip Samui"]
     }
   ],
   "publications": [
@@ -146,37 +140,19 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": [
-        "Python (expert)",
-        "C/C++",
-        "Fortran"
-      ]
+      "keywords": ["Python (expert)", "C/C++", "Fortran"]
     },
     {
       "name": "Simulations",
-      "keywords": [
-        "IllustrisTNG",
-        "SIMBA",
-        "CAMELS",
-        "FLAMINGO"
-      ]
+      "keywords": ["IllustrisTNG", "SIMBA", "CAMELS", "FLAMINGO"]
     },
     {
       "name": "Software & packages",
-      "keywords": [
-        "Corrfunc (expert)",
-        "Halotools (expert)",
-        "FSPS",
-        "CIGALE",
-        "yt"
-      ]
+      "keywords": ["Corrfunc (expert)", "Halotools (expert)", "FSPS", "CIGALE", "yt"]
     },
     {
       "name": "Operating systems",
-      "keywords": [
-        "Linux",
-        "Windows"
-      ]
+      "keywords": ["Linux", "Windows"]
     }
   ],
   "languages": [

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a poster on *Conditional Luminosity Functions of Active Galactic Nuclei in Simulations* at Cosmic Connections II: AI/ML Across Cosmic Scales, IMSc Chennai.
+Presented a poster on _Conditional Luminosity Functions of Active Galactic Nuclei in Simulations_ at Cosmic Connections II: AI/ML Across Cosmic Scales, IMSc Chennai.

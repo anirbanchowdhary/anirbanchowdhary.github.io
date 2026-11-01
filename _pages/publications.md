@@ -21,12 +21,12 @@ nav_order: 2
 
 ## talks & posters
 
-| Date     | Presentation |
-| :------- | :----------- |
-| Sep 2026 | **Poster:** *Conditional Luminosity Functions of Active Galactic Nuclei in Simulations*. Cosmic Connections Second Edition: AI/ML Across Cosmic Scales 2026, IMSc Chennai |
-| May 2026 | **Poster:** *Halo Occupation Distribution of Quasars: Dependence on Luminosity, Redshift, Black Hole Mass and Feedback Modes*. 44<sup>th</sup> Meeting of the Astronomical Society of India, IIT Guwahati |
-| Mar 2026 | **Talk:** *Halo Occupation Distribution of Quasars: Dependence on Luminosity, Redshift, Black Hole Mass and Feedback Modes*. Neighbourhood Meeting: Chaos in the Cosmos, SINP Kolkata |
-| Mar 2025 | **Talk:** *Halo Occupation Distribution of Quasars: Dependence on Luminosity, Redshift, Black Hole Mass and Feedback Modes*. Young Astronomers' Meet 2025, TIFR Mumbai |
-| Feb 2024 | **Poster:** *Halo Occupation Distribution of Quasars: Redshift Evolution and Effects of AGN Feedback*. 42<sup>nd</sup> Meeting of the Astronomical Society of India (IISc, ISRO & JNP), Bengaluru |
-| Dec 2023 | **Poster:** *Halo Occupation Distribution of Quasars: Redshift Evolution*. 10<sup>th</sup> International Conference on Gravitation and Cosmology: New Horizons and Singularities in Gravity, IIT Guwahati |
-| Mar 2023 | **Poster:** *Halo Occupation Distribution: Redshift Evolution and Effect of Feedback*. 41<sup>st</sup> Meeting of the Astronomical Society of India, IIT Indore |
+| Date     | Presentation                                                                                                                                                                                              |
+| :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sep 2026 | **Poster:** _Conditional Luminosity Functions of Active Galactic Nuclei in Simulations_. Cosmic Connections Second Edition: AI/ML Across Cosmic Scales 2026, IMSc Chennai                                 |
+| May 2026 | **Poster:** _Halo Occupation Distribution of Quasars: Dependence on Luminosity, Redshift, Black Hole Mass and Feedback Modes_. 44<sup>th</sup> Meeting of the Astronomical Society of India, IIT Guwahati |
+| Mar 2026 | **Talk:** _Halo Occupation Distribution of Quasars: Dependence on Luminosity, Redshift, Black Hole Mass and Feedback Modes_. Neighbourhood Meeting: Chaos in the Cosmos, SINP Kolkata                     |
+| Mar 2025 | **Talk:** _Halo Occupation Distribution of Quasars: Dependence on Luminosity, Redshift, Black Hole Mass and Feedback Modes_. Young Astronomers' Meet 2025, TIFR Mumbai                                    |
+| Feb 2024 | **Poster:** _Halo Occupation Distribution of Quasars: Redshift Evolution and Effects of AGN Feedback_. 42<sup>nd</sup> Meeting of the Astronomical Society of India (IISc, ISRO & JNP), Bengaluru         |
+| Dec 2023 | **Poster:** _Halo Occupation Distribution of Quasars: Redshift Evolution_. 10<sup>th</sup> International Conference on Gravitation and Cosmology: New Horizons and Singularities in Gravity, IIT Guwahati |
+| Mar 2023 | **Poster:** _Halo Occupation Distribution: Redshift Evolution and Effect of Feedback_. 41<sup>st</sup> Meeting of the Astronomical Society of India, IIT Indore                                           |

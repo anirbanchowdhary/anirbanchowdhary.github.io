@@ -25,4 +25,4 @@ nav_order: 6
 ### Professional service
 
 - **Jul 2024:** Member of the Local Organizing Committee, Conference on Blazars and Restless AGN (COBRA 2024), Presidency University, Kolkata.
-- **Mar 2023:** Invited panelist, *Personal Experiences related to Gender Equity in Academics*, organized by the Working Group for Gender Equity of the Astronomical Society of India at ASI 2023, IIT Indore.
+- **Mar 2023:** Invited panelist, _Personal Experiences related to Gender Equity in Academics_, organized by the Working Group for Gender Equity of the Astronomical Society of India at ASI 2023, IIT Indore.
