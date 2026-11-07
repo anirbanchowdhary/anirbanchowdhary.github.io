@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching-amp-outreach",
-          title: "teaching &amp; outreach",
-          description: "Mentoring, teaching and outreach.",
+        },{id: "nav-mentoring-amp-outreach",
+          title: "mentoring &amp; outreach",
+          description: "Mentoring and outreach.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -43,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
-          },
-        },{id: "nav-beyond-research",
-          title: "beyond research",
-          description: "A little more about me.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/beyond-research/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
