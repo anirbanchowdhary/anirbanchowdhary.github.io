@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching & outreach
-description: Mentoring, teaching and outreach.
+title: mentoring & outreach
+description: Mentoring and outreach.
 nav: true
 nav_order: 6
 ---
@@ -11,11 +11,6 @@ nav_order: 6
 
 - **2024–present:** Siddharth Dutta: mock AGN catalogues from IllustrisTNG, comparing FSPS and CIGALE spectral energy distribution models (Dutta et al., in preparation).
 - **2022–2023:** Dweepsa Das: student research project, leading to co-authorship on the AGN conditional luminosity function paper (Chowdhary, Chatterjee & Das, submitted to MNRAS).
-
-### Teaching
-
-- **2021–2022:** Physics teacher, Techno India Group Public School.
-- **2017–2020:** Freelance physics and mathematics tutor.
 
 ### Public outreach
 
