@@ -2,14 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching & outreach
-description: Mentoring, teaching, outreach and professional service.
+description: Mentoring, teaching and outreach.
 nav: true
 nav_order: 6
 ---
 
 ### Mentoring
 
-- Mentoring two Master's students with their thesis research at Presidency University, Kolkata.
+- **2024–present:** Siddharth Dutta: mock AGN catalogues from IllustrisTNG, comparing FSPS and CIGALE spectral energy distribution models (Dutta et al., in preparation).
+- **2022–2023:** Dweepsa Das: student research project, leading to co-authorship on the AGN conditional luminosity function paper (Chowdhary, Chatterjee & Das, submitted to MNRAS).
 
 ### Teaching
 
@@ -19,10 +20,5 @@ nav_order: 6
 ### Public outreach
 
 - **Mar 2025:** Ran a public outreach quiz at the Young Astronomers' Meet, Tata Institute of Fundamental Research, Mumbai.
-- **Dec 2023:** Resource person for a teachers' training workshop organized by the International Astronomical Union's Office for Astronomy Education (IAU-OAE) at Presidency University, Kolkata.
-- **Dec 2022:** Public communicator for Presidency University at the National Space Science Exhibition organized by ISRO and IISER Kolkata.
-
-### Professional service
-
-- **Jul 2024:** Member of the Local Organizing Committee, Conference on Blazars and Restless AGN (COBRA 2024), Presidency University, Kolkata.
-- **Mar 2023:** Invited panelist, _Personal Experiences related to Gender Equity in Academics_, organized by the Working Group for Gender Equity of the Astronomical Society of India at ASI 2023, IIT Indore.
+- **Dec 2023:** Resource person for a teachers' training workshop organized by the International Astronomical Union's Office of Astronomy for Education (IAU-OAE) at Presidency University, Kolkata.
+- **Dec 2022:** Volunteer public communicator for Presidency University at the National Space Science Exhibition organized by ISRO and IISER Kolkata.

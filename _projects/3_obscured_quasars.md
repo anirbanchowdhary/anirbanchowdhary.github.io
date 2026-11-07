@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Occupation of Obscured Quasars
-description: M.Sc. thesis. A direct measurement using WISE quasars and Planck halos
+description: M.Sc. thesis (2019–2020). A direct measurement using WISE quasars and Planck clusters
 img: assets/img/research/wise_full_sky.jpg
-importance: 3
+importance: 4
 ---
 
 <div class="row justify-content-sm-center">
@@ -15,4 +15,4 @@ importance: 3
   The whole sky in infrared from the Wide-field Infrared Survey Explorer (WISE). Credit: NASA/JPL-Caltech/UCLA. <a href="https://commons.wikimedia.org/wiki/File:WISE_full_sky.jpg">Wikimedia Commons</a>, public domain.
 </div>
 
-For my M.Sc. thesis (advisor: Dr. Suchetana Chatterjee), I measured the mean occupation function of obscured quasars directly. I combined obscured quasars from the WISE catalog with dark matter halos selected from the Planck catalog to measure how these quasars populate halos.
+For my M.Sc. thesis (advisor: Dr. Suchetana Chatterjee), I measured the mean occupation function of obscured quasars directly, using WISE-selected obscured quasars and dark matter halos traced by Planck clusters.

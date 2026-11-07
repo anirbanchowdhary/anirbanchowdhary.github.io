@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Type Ia Supernova Standardization
-description: B.Sc. project. Standardizing archival light curves for distance calibration
+description: B.Sc. project (2017–2018). Standardizing archival light curves for distance calibration
 img: assets/img/research/des_sn_hubble.jpg
-importance: 4
+importance: 5
 ---
 
 <div class="row justify-content-sm-center">

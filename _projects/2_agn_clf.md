@@ -15,9 +15,11 @@ importance: 2
   Baryon acoustic oscillation peaks in the clustering of DESI galaxies, quasars (QSO) and the Lyman-alpha forest across 11 billion years of cosmic history: two-point statistics of tracers at work. Credit: DESI Collaboration/A. de Mattia. Cropped from the original on <a href="https://commons.wikimedia.org/wiki/File:How_Baryon_Acoustic_Oscillations_Are_Used_to_Measure_the_Expanding_Universe_(noirlab2408e).jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 </div>
 
-Building on the halo occupation work, I use the conditional luminosity function (CLF) framework to describe how AGN luminosity depends on host halo mass in cosmological simulations.
+I model the AGN conditional luminosity function (CLF), which describes how AGN luminosity depends on host halo mass, in the TNG300 simulation for 0.1 < z < 3.
 
-I am developing a joint statistical framework that combines AGN luminosity functions with two-point correlation functions. The aim is to constrain the AGN–halo connection and reconstruct the properties of quasar host halos from observable quantities.
+I developed a joint MCMC framework that fits the luminosity function and the two-point correlation function together to recover the host halos of quasars.
+
+**Paper:** Chowdhary, Chatterjee & Das (2026), _Extracting Host Dark Matter Halos of Quasars at Intermediate Redshifts: A Combined Clustering and Luminosity Function Based Approach_, submitted to MNRAS.
 
 **Presented at:** Cosmic Connections Second Edition: AI/ML Across Cosmic Scales (IMSc Chennai, September 2026).
 
