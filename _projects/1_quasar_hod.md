@@ -2,17 +2,17 @@
 layout: page
 title: Halo Occupation of Quasars
 description: How quasars populate dark matter halos in IllustrisTNG and SIMBA
-img: assets/img/research/gaia_quasars.jpg
+img: assets/img/research/hod_poster.jpg
 importance: 1
 ---
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/research/gaia_quasars.jpg" title="Gaia map of 1.3 million quasars tracing large-scale structure" alt="Gaia map of 1.3 million quasars tracing large-scale structure" class="img-fluid rounded z-depth-1" zoomable=true %}
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/research/hod_poster.jpg" title="Poster: Halo Occupation Distribution of Quasars, by Anirban Chowdhary and Suchetana Chatterjee" alt="Poster: Halo Occupation Distribution of Quasars, by Anirban Chowdhary and Suchetana Chatterjee" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 <div class="caption">
-  Gaia&#8217;s 3D map of 1.3 million quasars: quasar clustering traces the dark-matter structure of the Universe. Credit: ESA. <a href="https://commons.wikimedia.org/wiki/File:Gaia_maps_largest_ever_collection_of_quasars_in_space_and_time_ESA25977179.png">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/igo/">CC BY-SA 3.0 IGO</a>.
+  Poster on this work, presented at the 44<sup>th</sup> meeting of the Astronomical Society of India, IIT Guwahati, May 2026. Click to enlarge.
 </div>
 
 I model the Halo Occupation Distribution (HOD) of quasars using the cosmological hydrodynamic simulations [IllustrisTNG](https://www.tng-project.org/) and [SIMBA](http://simba.roe.ac.uk/), studying how occupation depends on luminosity, redshift, black hole mass and AGN feedback mode.
