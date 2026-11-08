@@ -9,7 +9,7 @@ last_name: Chowdhary
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Anirban Chowdhary — PhD candidate in astrophysics at Presidency University, Kolkata, working on quasars, black hole–galaxy–halo co-evolution and cosmological simulations.
+  Anirban Chowdhary — PhD student in astrophysics at Presidency University, Kolkata, working on quasars, black hole–galaxy–halo co-evolution and cosmological simulations.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

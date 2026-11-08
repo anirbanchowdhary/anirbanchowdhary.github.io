@@ -26,7 +26,7 @@ latest_posts:
 
 Hello visitor!
 
-I am a PhD Candidate at the [School of Astrophysics](https://presiuniv.ac.in/web/astrophysics.php) in [Presidency University](https://presiuniv.ac.in/web/), Kolkata, and expect to complete my PhD in January 2027. I did my undergraduate and postgraduate degrees from the Department of Physics in Presidency University.
+I am a PhD student at the [School of Astrophysics](https://presiuniv.ac.in/web/astrophysics.php) in [Presidency University](https://presiuniv.ac.in/web/), Kolkata, and expect to complete my PhD in June 2027. I did my undergraduate and postgraduate degrees from the Department of Physics in Presidency University.
 
 My research interest is at the interface of cosmology and galaxy evolution. I use cosmological hydrodynamical simulations such as [IllustrisTNG](https://www.tng-project.org/) and [SIMBA](http://simba.roe.ac.uk/) to study the connection between active galactic nuclei (AGN), their host galaxies and their dark matter halos. My current focus is on how AGN occupy halos as a function of luminosity, redshift, black hole mass and feedback, which I model with halo occupation distributions and conditional luminosity functions. I am also interested in statistics beyond the two-point function, such as k-nearest-neighbour distributions, and in using them to build feedback-sensitive models of AGN clustering for ongoing and upcoming galaxy surveys.
 

@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Anirban Chowdhary",
-    "label": "PhD Candidate, School of Astrophysics, Presidency University",
+    "label": "PhD Student, School of Astrophysics, Presidency University",
     "email": "anirbanchowdhary1@gmail.com",
     "location": {
       "address": "School of Astrophysics, Presidency University, 86/1 College Street",
@@ -22,9 +22,9 @@
   "work": [
     {
       "name": "Presidency University, Kolkata",
-      "position": "PhD Candidate, School of Astrophysics",
+      "position": "PhD Student, School of Astrophysics",
       "startDate": "2022",
-      "summary": "Advisor: Dr. Suchetana Chatterjee. Tentative thesis: Large Scale Structures in the High Redshift Universe. PhD expected January 2027.",
+      "summary": "Advisor: Dr. Suchetana Chatterjee. Tentative thesis: Large Scale Structures in the High Redshift Universe. PhD expected June 2027.",
       "highlights": [
         "Quasar halo occupation in simulations: measured the halo occupation distribution of quasars in IllustrisTNG and SIMBA and its dependence on luminosity, redshift, black hole mass and feedback mode. Showed that the central occupation of luminous AGN is suppressed in massive halos, and that a standard HOD fit to clustering can bias the inferred host halo mass.",
         "AGN conditional luminosity functions: modelled the AGN conditional luminosity function in TNG300 for 0.1 < z < 3, and developed a joint MCMC framework that fits the luminosity function and two-point correlation function together to recover the host halos of quasars.",
@@ -48,7 +48,7 @@
       "area": "Astrophysics",
       "startDate": "2022",
       "courses": [
-        "Expected January 2027",
+        "Expected June 2027",
         "Tentative thesis: Large Scale Structures in the High Redshift Universe",
         "Advisor: Dr. Suchetana Chatterjee",
         "PhD coursework GPA: 9.8/10"
